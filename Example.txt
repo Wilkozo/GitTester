@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Example. 
 _____
 |O_O|
-|___|
+|___| ->
+=======
+Main Test Document (Master)
+>>>>>>> master
